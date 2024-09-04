@@ -1,8 +1,18 @@
-## Hi there 👋
-# Myself Ayush Srivastava
+# 💫 About Me:
+<br>Hi there, I'm Ayush Srivastava! 👋<br><br>I'm a passionate software engineer with a focus on full-stack development, particularly in MERN stack technologies. My journey in coding started with a Bachelor's degree in Computer Science and Engineering, and I've been continuously expanding my skills since then.<br><br>**What I Do:**<br>- **Web Development:** From building dynamic user interfaces to creating efficient backend systems, I love crafting seamless web applications.<br>- **Blockchain Enthusiast:** I've worked on innovative projects like 'Health Hive - Empowering EMR using Blockchain,' exploring the intersection of technology and healthcare.<br>- **Salesforce Development:** I've also completed a Salesforce Developer Virtual Internship with SmartIntenz, adding CRM customization to my skill set.<br><br>**Current Projects:**<br>- **Dynamic Web Apps:** Building interactive web applications using React, Tailwind CSS, and APIs to create smooth user experiences.<br><br>**Tech Stack:**<br>- **Frontend:** HTML, CSS, JavaScript (React, Tailwind CSS)<br>- **Backend:** Node.js, Express<br>- **Blockchain:** Ethereum, Hardhat, Ethers.js<br>- **Databases:** MongoDB, Oracle (Rookie)<br>- **Tools:** VS Code, Git, GitHub<br><br>I'm always eager to learn new things and collaborate on exciting projects. Feel free to explore my repositories and connect with me!<br>
 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=its-as2002&theme=holi&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=its-as2002&theme=holi&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-as2002&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning FrontEnd Development
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=its-as2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=its-as2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
